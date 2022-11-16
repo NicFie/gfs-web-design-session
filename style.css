@@ -1,0 +1,93 @@
+/* FONTS */
+/* Choose between these fonts */
+
+.fonts {
+  font-family: 'Courier New';
+  font-family: 'Franklin Gothic Medium';
+  font-family: 'Gill Sans';
+  font-family: 'Lucida Sans';
+  font-family: 'Segoe UI';
+  font-family: Georgia;
+}
+
+/* CHOOSE A FONT, COLOR AND SIZE FOR THE MAIN HEADING */
+h1 {
+  font-family: ;
+  color: ;
+  font-size: 50px;
+}
+
+/* CHOOSE A FONT, COLOR AND SIZE FOR THE SUB HEADINGS */
+h2 {
+  font-family: ;
+  color: ;
+  font-size: 30px;
+}
+
+/* CHOOSE A FONT, COLOR AND SIZE FOR THE PARAGRAPHS */
+p {
+  font-family: ;
+  color: ;
+  font-size: 18px;
+}
+
+/* CHOOSE A BACKGROUND COLOR FOR THE 3 SECTIONS */
+
+li {
+  background-color: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* DON'T CHANGE ANYTHING BELOW THIS LINE! */
+* {
+  margin: 0;
+}
+.banner {
+  /* height: 50vh; */
+  background-color: lightgray;
+  /* background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(); */
+  background-size: cover;
+  background-position: center;
+  padding: 150px;
+}
+
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  min-height: 20vh;
+  padding: 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+li > div {
+  width: 50vw;
+}
+
+h1, h2 {
+  margin-bottom: 30px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  margin-right: 50px;
+}
