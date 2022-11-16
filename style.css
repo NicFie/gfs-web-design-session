@@ -48,6 +48,17 @@ li {
 
 
 
+
+
+
+
+
+/* IGNORE THIS FOR NOW */
+.clicked-section {
+  background-color: blue;
+}
+
+
 /* DON'T CHANGE ANYTHING BELOW THIS LINE! */
 * {
   margin: 0;
