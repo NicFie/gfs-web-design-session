@@ -12,8 +12,8 @@
 
 /* CHOOSE A FONT, COLOR AND SIZE FOR THE MAIN HEADING */
 h1 {
-  font-family: ;
-  color: ;
+  font-family: 'Gill Sans';
+  color: red;
   font-size: 50px;
 }
 
